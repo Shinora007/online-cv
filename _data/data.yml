@@ -21,6 +21,7 @@ sidebar:
     bitbucket:
     twitter: '@shinora007'
     stack-overflow: 2627100/shinora007 # Number/Username, e.g. 123456/alandoe
+    hackerEarth: '@shinora007'
     codewars: shinora007
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -54,6 +55,7 @@ education:
       university: Motilal Nehru National Institute Of Technology
       time: 2012 - 2016
       details: |
+        To fillup incase, I move to main section
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -77,7 +79,7 @@ education:
           - Bullet point
 
     - degree: Matriculation, PSEB
-      university: Baba Zoravar Singh Fateh Singh Public School, Patiala
+      university: Baba Zoravar Singh, Baba Fateh Singh Public School, Patiala
       time: 1997 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -94,27 +96,30 @@ experiences:
       time: 2016 - 2018
       company: Itron India Pvt. Ltd., Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        In my initial year, I started my work around writting cloud based windows services
+        in .Net . Then I was thrown in projects based on Microsoft Service Fabric
+        with micro-service architecture. Following are the technologies I worked with in this period.
 
-          - Bullet point
-          - Bullet point
+          - Microsoft Service Fabric (Stateful Rest APIs) [Azure]
+          - Service Bus (Queues/Topic) [Azure]
+          - Powershell
+          - SQL
+          - Windows Services
+          - .Net Standard
 
     - role: Software Development Engineer - 2
       time: 2018 - 2019
       company: Itron India Pvt. Ltd., Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        This year I got promoted to SDE-2 and got work related to kubernetes, docker and .net core.
+        Right now I am mostly working on micro-services involving message based communication.
+        Current I am working with following technologies.
 
-          - Bullet point
-          - Bullet point
+          - .Net Core
+          - kubernetes
+          - Docker
+          - RabbitMQ
+          - DocumentDB [Azure]
 
 
 projects:
