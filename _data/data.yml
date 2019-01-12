@@ -20,9 +20,9 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@shinora007'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: 2627100-shinora007 # Number-Username, e.g. 123456-alandoe
+    stack-overflow: 2627100-shinora007 # Number/Username, e.g. 123456/alandoe
+    codewars: shinora007
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Hindi/Punjabi
