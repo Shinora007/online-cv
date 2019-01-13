@@ -130,8 +130,8 @@ projects:
 
     assignments:
       - title: Itune Wox Plugin
-        link: "#hook"
-        tagline: "Its a plugin for wox key stroke launcher for Itunes music player"
+        link: "https://github.com/Shinora007/ItunesWoxPlug271"
+        tagline: "Its a plugin for wox key stroke launcher for Itunes music player."
 
 skills:
     title: Skills &amp; Proficiency
@@ -146,7 +146,7 @@ skills:
       - name: kubernetes & Docker
         level: 65%
 
-      - name: Microsoft Azure Technologies
+      - name: Microsoft Azure
         level: 75%
 
       - name: VSTS build and release pipeline
