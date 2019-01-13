@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: satya.cse16@mnnit.ac.in
-    phone: 9110226271
-    website:  #do not add http://
+    phone: +91-9110226271
+    website:  shinora007.github.io/online-cv/ #do not add http://
     linkedin: satya271
     github: Shinora007
     gitlab:
@@ -52,10 +52,10 @@ career-profile:
 
 education:
     - degree: Btech in Computer Science & Engineering
-      university: Motilal Nehru National Institute Of Technology
+      university: Motilal Nehru National Institute Of Technology, Allahabad
       time: 2012 - 2016
       details: |
-        To fillup incase, I move to main section
+        <To fillup incase, I move to main section>
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -69,6 +69,7 @@ education:
       university: Guru Tegh Bahadur Public School, Patiala
       time: 2009 - 2011
       details: |
+        <To fillup incase, I move to main section>      
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -97,15 +98,14 @@ experiences:
       company: Itron India Pvt. Ltd., Bengaluru
       details: |
         In my initial year, I started my work around writting cloud based windows services
-        in .Net . Then I was thrown in projects based on Microsoft Service Fabric
+        in .Net Framework. Then I was thrown in projects based on Microsoft Service Fabric
         with micro-service architecture. Following are the technologies I worked with in this period.
 
-          - Microsoft Service Fabric (Stateful Rest APIs) [Azure]
-          - Service Bus (Queues/Topic) [Azure]
-          - Powershell
-          - SQL
+          - Microsoft Service Fabric (Stateful Rest APIs) [Microsoft Azure]
+          - Service Bus (Queues/Topic) [Microsoft Azure]
+          - VSTS build and release pipeline
           - Windows Services
-          - .Net Standard
+          - .Net Standard, Powershell and SQL
 
     - role: Software Development Engineer - 2
       time: 2018 - 2019
@@ -119,58 +119,38 @@ experiences:
           - kubernetes
           - Docker
           - RabbitMQ
-          - DocumentDB [Azure]
+          - DocumentDB [Microsoft Azure]
+          - VSTS build and release pipeline
 
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Apart from my main work, there are few side projects I worked on.
 
     assignments:
-      - title: Velocity
+      - title: Itune Wox Plugin
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Its a plugin for wox key stroke launcher for Itunes music player"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: .Net Framework & .Net Core
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Powershell
+        level: 70%
+
+      - name: kubernetes & Docker
+        level: 65%
+
+      - name: Microsoft Azure Technologies
+        level: 75%
+
+      - name: VSTS build and release pipeline
+        level: 70%
 
 footer: >
     Thank <i class="fas fa-heart"></i> You
