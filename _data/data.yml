@@ -46,9 +46,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been in IT for 2.5 years now and currently working as SDE-II for Itron India Pvt. Ltd.
-      as a member of cloud computation division.
-      I am very passionate about working with new technologies while contributing to my organization.
+      I have been in IT for 2.5 years now and currently working as SDE-II in Itron India Pvt. Ltd.
+      for cloud computation team.
+      I am very passionate about working on new technologies while contributing alongside to my organization.
 
 education:
     - degree: Btech in Computer Science & Engineering
@@ -126,7 +126,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Apart from my main work, there are few side projects I worked on.
+      Apart from my main work, these are my few side projects.
 
     assignments:
       - title: Itune Wox Plugin
