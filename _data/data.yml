@@ -129,9 +129,13 @@ projects:
       Apart from my main work, these are my few side projects.
 
     assignments:
-      - title: Itune Wox Plugin
+      - title: Itunes Wox Plugin
         link: "https://github.com/Shinora007/ItunesWoxPlug271"
         tagline: "Its a plugin for wox key stroke launcher for Itunes music player."
+
+      - title: Castle Defence PyGame
+        link: "https://www.hackerearth.com/sprints/hack-in-the-north/dashboard/79df0e8/submission/"
+        tagline: "It is a multiplayer pygame for PC with android controller app"
 
 skills:
     title: Skills &amp; Proficiency
